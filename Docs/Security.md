@@ -58,12 +58,13 @@ Secure Encrypted Virtualization-Secure Nested Paging (SEV-SNP) security features
 
 ## Rust
 
-- Rust Web framework https://rust-on-nails.com
+- MIT: Rust Web framework https://rust-on-nails.com https://github.com/purton-tech/rust-on-nails
 
 # Database Security
 
-- Encrypted SQLite https://github.com/sqlcipher/sqlcipher
-- GDPR WebUI and API to SQLite/PostgreSQL etc https://databunker.org https://github.com/securitybunker/databunker#readme
+- Encrypted SQLite GUI https://github.com/yyamasak/TkSQLite-Cipher
+- MIT: GDPR WebUI and API to SQLite/PostgreSQL etc https://databunker.org https://github.com/securitybunker/databunker#readme
+- Apache2 License: Streaming backup of SQLite https://litestream.io https://github.com/benbjohnson/litestream
 
 # Webserver Security
 
@@ -73,11 +74,11 @@ Secure Encrypted Virtualization-Secure Nested Paging (SEV-SNP) security features
 
 # Other web frameworks, not security related
 
-- Serverless Web Framework https://hono.dev
+- MIT: Serverless Web Framework https://hono.dev
 
 # ONTOCHAIN
 
-- https://github.com/ONTOCHAIN/POC4COMMERCE
+- GPLv3: https://github.com/ONTOCHAIN/POC4COMMERCE
 - https://github.com/ONTOCHAIN
 
 # Progressive enhancement, graceful degradation
