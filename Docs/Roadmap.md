@@ -36,7 +36,7 @@ TODO:
     - Keys to access Smart Contracts.
     - Registering of Smart Contracts? Is there some fees?
   - Ontochain => TrustChain call, applications open to Feb 7
-
+    - Good to have prototype, website, to show when applying.
 ----
 1) Guardian Architecture:
 - wallets based on work smart contracts
