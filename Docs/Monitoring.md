@@ -7,4 +7,6 @@ This file is licensed both with:
 
 # Monitoring
 
-- 
+- Detect when file changed
+  - mgmt (Server management tool, like Puppet/Ansible/SaltStack) https://github.com/purpleidea/mgmt
+  - 

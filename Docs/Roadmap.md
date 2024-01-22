@@ -7,8 +7,37 @@ This file is licensed both with:
 
 # Roadmap
 
-TODO: Move below content to different files by topic.
+TODO:
+- Move below content to different files by topic.
+- L: Setup webserver to work at local computer, for public demo, available at Internet
+- K:
+  - LiveZero:
+    - Some fees for blockchain, or get money from wallet for development
+    - Tried to steal money
+    - Is it at all trustworthy library?
+    - Testnet, for testing applications
+      - No test environment?
+    - How to run local blockchain and connect to other networks?
+    - Only 200 Smart Contracts
+  - Smart Contracts
+    - Rust programming language
+      - HyperLedger
+      - Polkadot
+    - Partiza?, better instructions, how to use their tech
+      - Automatical Zero Knowledge proofs
+      - Cryptographic chunks in memory, parity bits, rules
+      - Don't have any datatypes for floating point. Only Integer numbers. So it's tricky to understand.
+    - Triggers to cause some automatic action
+    - Some storage space to save state
+    - Interface like API
+    - Where should contracts be stored? Blockchain spefic docs, how it works. Stored code triggers.
+    - Blockchain contracts like triggers, like SQLite database triggers, stored procs/procedures. Or time based cron.
+    - Blockchain is storage space, saved data.
+    - Keys to access Smart Contracts.
+    - Registering of Smart Contracts? Is there some fees?
+  - Ontochain => TrustChain call, applications open to Feb 7
 
+----
 1) Guardian Architecture:
 - wallets based on work smart contracts
 - self costed access recovery
