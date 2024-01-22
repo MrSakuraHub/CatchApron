@@ -7,5 +7,7 @@ This file is licensed both with:
 
 # ONTOCHAIN
 
-- GPLv3: https://github.com/ONTOCHAIN/POC4COMMERCE
+- https://ontochain.ngi.eu/news/interview-ontochain-hackathons-winners-meet-lauri-ojansivu
 - https://github.com/ONTOCHAIN
+- GPLv3: https://github.com/ONTOCHAIN/POC4COMMERCE
+- WeKan kanban board move card, Webhook to trigger purchacing at blockchain https://github.com/wekan/webhook/blob/main/public/index.php
