@@ -42,7 +42,8 @@ TODO:
     - Maybe run our own blockchain in our own computers, like add only database.
     - IExec network etc.
     - Mining blockchain is too heavyweight.
-    - Could get grant, reference, and possibility to apply elsewhere too for grants. 
+    - Could get grant, reference, and possibility to apply elsewhere too for grants.
+    - Redbean has SQLite triggers and time based cron.
   - Cordana network:
     - How to connect to their network?
     - How to run this node?
