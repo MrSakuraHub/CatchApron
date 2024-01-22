@@ -44,7 +44,8 @@ TODO:
     - Mining blockchain is too heavyweight.
   - Cordana network: How to connect to their network? Wallet address? How?
 
-----
+***
+
 1) Guardian Architecture:
 - wallets based on work smart contracts
 - self costed access recovery
