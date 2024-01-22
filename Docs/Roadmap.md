@@ -37,6 +37,13 @@ TODO:
     - Registering of Smart Contracts? Is there some fees?
   - Ontochain => TrustChain call, applications open to Feb 7
     - Good to have prototype, website, to show when applying.
+    - More advanced, if possible.
+    - Create better prototype, working interface.
+    - Maybe run our own blockchain in our own computers, like add only database.
+    - IExec network etc.
+    - Mining blockchain is too heavyweight.
+  - Cordana network: How to connect to their network? Wallet address? How?
+
 ----
 1) Guardian Architecture:
 - wallets based on work smart contracts
