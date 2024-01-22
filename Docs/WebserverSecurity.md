@@ -12,3 +12,9 @@ This file is licensed both with:
 - AGPLv3: Collaborative office suite, end-to-end encrypted https://cryptpad.org https://github.com/cryptpad/cryptpad
 - Validate XSS only at serverside.
 
+# For prototypes
+
+- For prototype, Redbean has SQLite triggers and time based cron.
+  - Example code for creating database structure, adding data, etc at https://github.com/wekan/wekan/wiki/s390x#petclinic-s390x
+  - Redbean has DDoS protection, using ASAN, etc security features
+

@@ -43,7 +43,9 @@ TODO:
     - IExec network etc.
     - Mining blockchain is too heavyweight.
     - Could get grant, reference, and possibility to apply elsewhere too for grants.
-    - Redbean has SQLite triggers and time based cron.
+    - For prototype, Redbean has SQLite triggers and time based cron.
+      - Example code for creating database structure, adding data, etc at https://github.com/wekan/wekan/wiki/s390x#petclinic-s390x
+      - Redbean has DDoS protection, using ASAN, etc security features
   - Cordana network:
     - How to connect to their network?
     - How to run this node?
