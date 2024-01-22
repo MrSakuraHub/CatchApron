@@ -9,4 +9,6 @@ This file is licensed both with:
 
 - Detect when file changed
   - mgmt (Server management tool, like Puppet/Ansible/SaltStack) https://github.com/purpleidea/mgmt
-  - 
+  - osquery
+    - https://www.osquery.io
+    - https://hackertarget.com/osquery-linux-tutorial/
