@@ -42,7 +42,19 @@ TODO:
     - Maybe run our own blockchain in our own computers, like add only database.
     - IExec network etc.
     - Mining blockchain is too heavyweight.
-  - Cordana network: How to connect to their network? Wallet address? How?
+  - Cordana network:
+    - How to connect to their network?
+    - How to run this node?
+      - Does is need:
+        - Key?
+        - Wallet address?
+        - Permission?
+      - How to register some Smart Contract?
+  - Solana?
+    - Generate key pair for blockchain
+    - Reference: Private key for access, Public key at Blockchain
+    - Request some currency, that is transferred to some ID
+    - Format of key corresponds to blockchain used
 
 ***
 
