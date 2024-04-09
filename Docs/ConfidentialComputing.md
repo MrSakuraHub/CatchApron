@@ -7,6 +7,14 @@ This file is licensed both with:
 
 # Confidential Computing
 
+## Problems
+
+- https://ethz.ch/en/news-und-veranstaltungen/eth-news/news/2024/04/knocking-cloud-security-off-its-game.html
+- https://stiankri.substack.com/p/the-open-secret-about-confidential
+- https://news.ycombinator.com/item?id=39981122
+
+## Description
+
 - https://twit.tv/shows/floss-weekly/episodes/731?autostart=false
 - https://github.com/confidential-computing
 - https://confidentialcomputing.io/wp-content/uploads/sites/10/2023/03/CCC_Overview.pdf
